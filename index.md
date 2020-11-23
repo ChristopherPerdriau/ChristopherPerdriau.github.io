@@ -15,37 +15,14 @@ I’m investigating the kinds recruiting and marketing practices 14 informal com
 I'm also investigating how to use InclusiveMag, a meta-method used to create inclusive methods along the line of one diversity dimension, to help create a new method called Socioeconomic Status Magnifier (SESMag). Socioeconomic status (SES) goes beyond a person's income level; it considers a person’s educational, occupational, and social opportunities and privileges. SES can have profound effects on a person’s interactions with technology, and technology’s impact on a person. We identified five facets that are critical to how low SES people interact with technology and that can be used ubiquitously across SES populations.
 
 
-Over the summer, I helped evaluate how well an inclusive design activity enabled computing students to recognize and respond to the exclusionary assumptions built into human-computer interaction artifacts worked. The activity involved students to identify and 
-
+Over the summer, I helped evaluate how well an inclusive design activity (IDAs) enabled computing students to recognize and respond to the exclusionary assumptions built into human-computer interaction artifacts worked. The activity involved students identifying the assumptions that five different IDAs had. In total, we discovered nine assumptions that students identifed when evaluating the IDAs.
 
 
 ### Publications
+C. Holderbrand, C. Perdriau, L. Letaw, J. Emard, Z. Steine-Hanson, M. Burnett, A. Sarma. Engineering Gender-Inclusivity into Software: Ten Teams’ Tales from the Trenches. In Proceedings of the 42nd International Conference on Software Engineering (ICSE ’20). ACM, New York, NY, USA.
 
 
-```markdown
-Syntax highlighted code block
+Alannah Oleson, Christopher J. Mendez, Zoe Steine-Hanson, Claudia Hilder- brand, Christopher Perdriau, Margaret Burnett, and Amy J. Ko. Pedagogical Content Knowledge for Teaching Inclusive Design. In Proceedings of the 2018 ACM Conference on International Computing Education Research (ICER ’18). 69- 77.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristopherPerdriau/ChristopherPerdriau.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Theresa Mai, Roli Khanna, Jonathan Dodge, Jed Irvine, Kin-Ho Lam, Zhengxian Lin, Nicholas Kiddle, Evan Newman, Sai Raja, Caleb Matthews, Christopher Perdriau, Margaret Burnett, and Alan Fern. 2020. Keeping it ”or- ganized and logical”: after-action review for AI (AAR/AI). In Proceedings of the 25th International Conference on Intelligent User Interfaces (IUI ’20). Asso- ciation for Computing Machinery, New York, NY, USA, 465–476.
