@@ -4,7 +4,7 @@
  undergraduate researcher\
  School of Electrical Engineering and Computer Science\
  Oregon State University, Corvallis\
- email: perdriac@oregonstate.edu\
+ email: perdriac@oregonstate.edu
 
 ### My Research Focus
 
