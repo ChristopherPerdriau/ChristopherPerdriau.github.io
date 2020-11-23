@@ -1,6 +1,6 @@
 ## Christopher Perdriau
 pronouns: he/his/him\
-undergraduate researcher\ 
+undergraduate researcher\
 School of Electrical Engineering and Computer Science\
 Oregon State University, Corvallis\
 email: perdriac@oregonstate.edu
