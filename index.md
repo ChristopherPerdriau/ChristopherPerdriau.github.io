@@ -6,7 +6,7 @@ Oregon State University, Corvallis\
 email: perdriac@oregonstate.edu
 
 
-[Publications](https://www.researchgate.net/profile/Christopher_Perdriau)    [CV](https://christopherperdriau.github.io/CV.pdf)    [GitHub](https://github.com/ChristopherPerdriau)    [LinkedIn](https://www.linkedin.com/feed/) 
+[Publications](https://www.researchgate.net/profile/Christopher_Perdriau)      [CV](https://christopherperdriau.github.io/CV.pdf)      [GitHub](https://github.com/ChristopherPerdriau)      [LinkedIn](https://www.linkedin.com/in/christopher-perdriau-a79a59149/) 
 
 ### My Research Focus
 I am interested in identifying, learning, and understanding the systemic barriers and stereotypes that are systematically preventing groups of people with diverse genders, races, cultures, and background from participating in computer science (CS).
