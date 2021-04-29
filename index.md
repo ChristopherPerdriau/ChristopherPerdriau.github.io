@@ -3,7 +3,7 @@ pronouns: he/his/him\
 undergraduate researcher\
 School of Electrical Engineering and Computer Science\
 Oregon State University, Corvallis\
-Soon to be a PhD candidate at the University of Illinois in Urbana-Champaign
+Soon to be a PhD candidate at the University of Illinois in Urbana-Champaign\
 email: perdriac@oregonstate.edu
 
 
