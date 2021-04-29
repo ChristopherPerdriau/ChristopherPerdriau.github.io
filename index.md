@@ -3,10 +3,11 @@ pronouns: he/his/him\
 undergraduate researcher\
 School of Electrical Engineering and Computer Science\
 Oregon State University, Corvallis\
+Soon to be a PhD candidate at the University of Illinois in Urbana-Champaign
 email: perdriac@oregonstate.edu
 
 
-[Publications](https://www.researchgate.net/profile/Christopher_Perdriau)      [CV](https://christopherperdriau.github.io/CV.pdf)      [GitHub](https://github.com/ChristopherPerdriau)      [LinkedIn](https://www.linkedin.com/in/christopher-perdriau-a79a59149/) 
+[Publications](https://www.researchgate.net/profile/Christopher_Perdriau)      [CV](https://christopherperdriau.github.io/CV.pdf)      [GitHub](https://github.com/ChristopherPerdriau)      [LinkedIn](https://www.linkedin.com/in/christopher-perdriau-a79a59149/) [CAPSTONE] 
 
 ### My Research Focus
 I am interested in identifying, learning, and understanding the systemic barriers and stereotypes that are systematically preventing groups of people with diverse genders, races, cultures, and background from participating in computer science (CS).
@@ -19,7 +20,6 @@ I'm also investigating how to use InclusiveMag, a meta-method used to create inc
 
 
 Over the summer, I helped evaluate how well an inclusive design activity (IDAs) enabled computing students to recognize and respond to the exclusionary assumptions built into human-computer interaction artifacts worked. The activity involved students identifying the assumptions that five different IDAs had. In total, we discovered nine assumptions that students identifed when evaluating the IDAs.
-
 
 ### Publications
 C. Holderbrand, C. Perdriau, L. Letaw, J. Emard, Z. Steine-Hanson, M. Burnett, A. Sarma. Engineering Gender-Inclusivity into Software: Ten Teams’ Tales from the Trenches. In Proceedings of the 42nd International Conference on Software Engineering (ICSE ’20). ACM, New York, NY, USA.
