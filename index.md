@@ -7,7 +7,7 @@ Soon to be a PhD candidate at the University of Illinois in Urbana-Champaign
 email: perdriac@oregonstate.edu
 
 
-[Publications](https://www.researchgate.net/profile/Christopher_Perdriau)      [CV](https://christopherperdriau.github.io/CV.pdf)      [GitHub](https://github.com/ChristopherPerdriau)      [LinkedIn](https://www.linkedin.com/in/christopher-perdriau-a79a59149/)      [CAPSTONE](https://github.com/ChristopherPerdriau/ChristopherPerdriau.github.io/blob/main/CAPSTONE) 
+[Publications](https://www.researchgate.net/profile/Christopher_Perdriau)      [CV](https://christopherperdriau.github.io/CV.pdf)      [GitHub](https://github.com/ChristopherPerdriau)      [LinkedIn](https://www.linkedin.com/in/christopher-perdriau-a79a59149/)      [CAPSTONE](https://github.com/ChristopherPerdriau/CAPSTONE) 
 
 ### My Research Focus
 I am interested in identifying, learning, and understanding the systemic barriers and stereotypes that are systematically preventing groups of people with diverse genders, races, cultures, and background from participating in computer science (CS).
